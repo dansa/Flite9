@@ -1,0 +1,10 @@
+Package:  com.dansa.flite9
+Name: Flite 9
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Beta and stuff for Flite 9
+Homepage: http://dansa.github.io
+Depiction: http://dansa.github.io/packages/package.html
+Maintainer: dansaDisco <saftsnubben@gmail.com>
+Author: dansaDisco <saftsnubben@gmail.com> #Your name 
+Sections: Themes
